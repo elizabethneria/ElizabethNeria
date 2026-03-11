@@ -2,7 +2,7 @@
 
 🎓 Estudiante interesada en desarrollo de software, bases de datos y tecnologías de realidad virtual.
 
-💻 GitHub: https://github.com/NadiaOl15  
+💻 GitHub: 
 📍 México  
 
 ---
