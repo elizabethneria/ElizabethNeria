@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Elizabeth%20Neria&fontSize=40&fontColor=ffffff"/>
+<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f658722fa61128750a277669&ts=492579&p=fs&cid=1&sig=be27b77491ff270cd35433bfae128b582c011eea5401936f6ac1dba51457d014&v=0"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
