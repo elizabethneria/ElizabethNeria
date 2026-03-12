@@ -1,74 +1,125 @@
-# 👋 Hola, soy Elizabeth Neria
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Elizabeth%20Neria&fontSize=40&fontColor=ffffff"/>
+</p>
 
-🎓 Estudiante interesada en desarrollo de software, bases de datos y tecnologías de realidad virtual.
+<h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
+<h3 align="center">💻 Informatics Student | Databases | Unity | Virtual Reality</h3>
 
-💻 GitHub: 
-📍 México  
-
----
-
-## 👩‍💻 Sobre mí
-
-Soy estudiante del área de informática con interés en el desarrollo de software, diseño de bases de datos y creación de entornos virtuales.  
-Me gusta desarrollar proyectos educativos interactivos y aprender nuevas tecnologías relacionadas con programación y XR.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
-## 🚀 Tecnologías y herramientas
+# 👩‍💻 About Me
 
-![SQL](https://img.shields.io/badge/SQL-Database-blue)
-![Unity](https://img.shields.io/badge/Unity-Game%20Engine-black)
-![C#](https://img.shields.io/badge/C%23-Programming-purple)
-![Python](https://img.shields.io/badge/Python-Basic-yellow)
-![Git](https://img.shields.io/badge/Git-Version%20Control-red)
-![GitHub](https://img.shields.io/badge/GitHub-Repositories-black)
+🎓 Estudiante interesada en informática, bases de datos y desarrollo de entornos virtuales.
 
----
+💡 Me gusta crear proyectos educativos interactivos y aprender nuevas tecnologías.
 
-## 🧠 Conocimientos
+🌱 Actualmente aprendiendo:
 
-- Diseño de bases de datos
-- Modelo Entidad–Relación
-- Modelo Relacional
-- Creación de scripts SQL
-- Desarrollo de entornos virtuales en Unity
-- Realidad Virtual y XR
-- Creación de material educativo digital
+- Desarrollo con Unity  
+- Bases de datos avanzadas  
+- Realidad virtual y aumentada  
 
 ---
 
-## 📂 Proyectos
+# 🚀 Technologies
 
-### 📊 Sistema de Base de Datos
-- Diseño de modelo entidad-relación
-- Conversión a modelo relacional
-- Creación de diccionario de datos
-- Script SQL para implementación
+<p align="center">
 
-### 🕶️ Entorno Virtual en Unity
-- Desarrollo de entorno VR
-- Integración de manos XR
-- Ajuste de escala y movimiento de objetos
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://skillicons.dev/icons?i=cs"/>
+<img src="https://skillicons.dev/icons?i=unity"/>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=github"/>
 
-### 🎨 Recursos Educativos Interactivos
-- Creación de ruletas educativas
-- Diseño de material visual para enseñanza infantil
+</p>
 
 ---
 
-## 📊 Estadísticas de GitHub
+# 📂 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NadiaOl15&show_icons=true&theme=tokyonight)
+## 📊 Database System
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NadiaOl15&layout=compact&theme=tokyonight)
+Proyecto académico donde se desarrolló:
+
+✔ Modelo entidad–relación  
+✔ Modelo relacional  
+✔ Diccionario de datos  
+✔ Script SQL  
+
+📁 Evidencias  
+/evidencias/base_datos
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## 🕶 Virtual Reality Environment
 
-- Desarrollo en Unity
-- Bases de datos avanzadas
-- Tecnologías de realidad virtual y aumentada
+Desarrollo de entorno virtual en Unity con interacción de manos XR.
+
+📁 Evidencias  
+/evidencias/unity
 
 ---
 
+## 🎨 Educational Interactive Material
+
+Creación de recursos educativos digitales y material interactivo.
+
+📁 Evidencias  
+/evidencias/material
+
+---
+
+# 📄 Curriculum
+
+📎 Descargar CV
+
+[Download CV](cv/Elizabeth_Neria_CV.pdf)
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethneria&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=elizabethneria&theme=tokyonight"/>
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=elizabethneria&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+---
+
+# 📫 Contact
+
+💻 GitHub  
+https://github.com/elizabethneria
+
+📧 Email  
+tu_email@example.com
+
+---
+
+⭐ Thanks for visiting my profile
