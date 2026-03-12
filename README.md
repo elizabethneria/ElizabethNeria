@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000f658722fa61128750a277669&ts=492579&p=fs&cid=1&sig=be27b77491ff270cd35433bfae128b582c011eea5401936f6ac1dba51457d014&v=0"/>
+<img src=" id=file_00000000f658722fa61128750<img width="1536" height="1024" alt="ChatGPT Image 11 mar 2026, 09_53_02 p m" src="https://github.com/user-attachments/assets/87b9030c-ea08-42b7-b724-e7bd5649c615" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
