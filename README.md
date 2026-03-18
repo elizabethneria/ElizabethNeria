@@ -78,7 +78,7 @@ Creación de recursos educativos digitales y material interactivo.
 
 📎 Descargar CV
 
-[Download CV](cv/Elizabeth_Neria_CV.pdf)
+[Download CV](cv/cv_eli.pdf)
 
 ---
 
