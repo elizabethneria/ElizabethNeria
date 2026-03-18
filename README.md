@@ -107,7 +107,8 @@ Creación de recursos educativos digitales y material interactivo.
 # 👀 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=elizabethneria&label=Profile%20Views&color=blue&style=flat"/>
+<img src=""/>
+
 </p>
 
 ---
@@ -119,6 +120,10 @@ https://github.com/elizabethneria
 
 📧 Email  
 tu_email@example.com
+
+📲 Telefono
+2471187838
+
 
 ---
 
