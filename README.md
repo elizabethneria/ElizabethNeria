@@ -1,5 +1,5 @@
 <p align="center">
-<img src=" id=file_00000000f658722fa61128750<img width="1536"" src="https://github.com/user-attachments/assets/87b9030c-ea08-42b7-b724-e7bd5649c615" />
+<img src=" id=file_00000000f658722fa61128750<img width="1536"encabezado.png" src="https://github.com/user-attachments/assets/87b9030c-ea08-42b7-b724-e7bd5649c615" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
