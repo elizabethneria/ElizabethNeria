@@ -80,7 +80,7 @@ Creación de recursos educativos digitales y material interactivo.
 📎 Descargar CV
 <td align="center">
 [Download CV](cv/cv_eli.pdf)
-<a href="cv_eli.pdf">Ver certificado</a>
+<a href="cv_eli.pdf">Ver currinculum</a>
 </td>
 
 
