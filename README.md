@@ -1,5 +1,5 @@
 <td align="center">
-<img src="encabezado.png" width="200" length="100"><br>
+<img src="encabezado.png" width="200" length="300"><br>
 </td>
 
 
