@@ -1,5 +1,5 @@
 <td align="center">
-<img src="encabezado.png" width="200"><br>
+<img src="encabezado.png" width="600"><br>
 <b>Primera Jornada Cultura de Paz</b><br>
 Noviembre, 2025<br>
 <a href="2.pdf">Ver certificado</a>
