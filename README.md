@@ -1,6 +1,10 @@
-<p align="center">
-<img src=" id=file_00000000f658722fa61128750<img width="1536"encabezado.png" src="encabezado.png" />
-</p>
+<td align="center">
+<img src="encabezado.png" width="200"><br>
+<b>Primera Jornada Cultura de Paz</b><br>
+Noviembre, 2025<br>
+<a href="2.pdf">Ver certificado</a>
+</td>
+
 
 <h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
 <h3 align="center">💻 Informatics Student | Databases | Unity | Virtual Reality</h3>
