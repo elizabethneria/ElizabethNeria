@@ -1,11 +1,7 @@
 <!-- HEADER VIOLETA ANIMADO -->
 <!-- BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=300&section=header&text=Elizabeth%20Neria&fontSize=50&fontColor=ffffff&=fadeIn&desc=%2&=70"/>
-</p>
-
-<p align="center">
-  <img src="foto.png" width="130" class="profile-img"/>
+  <img src="banner.png" width="100%" />
 </p>
 
 
