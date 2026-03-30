@@ -1,134 +1,134 @@
-<td align="center">
-<img src="encabezado.png" width="200" length="200"><br>
-</td>
+<!-- HEADER VIOLETA ANIMADO -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=220&section=header&text=Elizabeth%20Neria&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20in%20Progress&descAlignY=65"/>
+</p>
 
+<h1 align="center">👩‍💻 Elizabeth Neria</h1>
+<h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
 
-<h1 align="center">Hi 👋, I'm Elizabeth Neria</h1>
-<h3 align="center">💻 Informatics Student | Databases | Unity | Virtual Reality</h3>
+---
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
+  <a href="https://github.com/elizabethneria">
+    <img src="https://img.shields.io/badge/GitHub-Perfil-6C2BD9?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/CV-Descargar-8A2BE2?style=for-the-badge&logo=readthedocs"/>
+  </a>
 </p>
 
 ---
 
-# 👩‍💻 About Me
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Estudiante interesada en informática, bases de datos y desarrollo de entornos virtuales.
+## 👩‍💻 Sobre mí
 
-💡 Me gusta crear proyectos educativos interactivos y aprender nuevas tecnologías.
+Soy estudiante de desarrollo de software enfocada en la creación de sistemas web y bases de datos.  
+Me interesa el desarrollo backend y el uso de tecnologías modernas para crear aplicaciones eficientes.
 
-🌱 Actualmente aprendiendo:
-
-- Desarrollo con Unity  
-- Bases de datos avanzadas  
-- Realidad virtual y aumentada  
+- 💻 Experiencia con **Django + PostgreSQL**
+- 🌱 Aprendiendo **Full Stack Development**
+- 🧠 Interés en **Realidad Aumentada (RA) y Realidad Virtual (RV)**
+- 🎯 Objetivo: Trabajar como desarrolladora profesional
 
 ---
 
-# 🚀 Technologies
+## 🚀 Tecnologías
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python"/>
-<img src="https://skillicons.dev/icons?i=cs"/>
-<img src="https://skillicons.dev/icons?i=unity"/>
-<img src="https://skillicons.dev/icons?i=mysql"/>
-<img src="https://skillicons.dev/icons?i=git"/>
-<img src="https://skillicons.dev/icons?i=github"/>
-
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,git,github,vscode" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 📂 Proyectos (Portfolio)
 
-## 📊 Database System
+### 🌿 Sistema de Plantas Medicinales con RA/RV
+<p>
+Aplicación interactiva enfocada en educación, integrando tecnologías de realidad aumentada y virtual para visualizar plantas medicinales.
+</p>
 
-Proyecto académico donde se desarrolló:
-
-✔ Modelo entidad–relación  
-✔ Modelo relacional  
-✔ Diccionario de datos  
-✔ Script SQL  
-
-📁 Evidencias  
-/evidencias/base_datos
-
----
-
-## 🕶 Virtual Reality Environment
-
-Desarrollo de entorno virtual en Unity con interacción de manos XR.
-
-📁 Evidencias  
-/evidencias/unity
-
----
-
-## 🎨 Educational Interactive Material
-
-Creación de recursos educativos digitales y material interactivo.
-
-📁 Evidencias  
-/evidencias/material
-
----
-
-# 📄 Curriculum
-
-📎 Descargar CV
-<td align="center">
-[Download CV](cv/cv_eli.pdf)
-<a href="cv_eli.pdf">Ver currinculum</a>
-</td>
-
-
----
-
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=elizabethneria&theme=tokyonight"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight"/>
-
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ver%20Proyecto-6C2BD9?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-# 🏆 Achievements
+### 🗄 Sistema de Gestión con PostgreSQL
+<p>
+Sistema de base de datos con modelo entidad-relación, implementación en PostgreSQL y conexión con backend.
+</p>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=elizabethneria&theme=tokyonight"/>
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Repositorio-8A2BE2?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-# 👀 Profile Views
+### 💻 Aplicación Web con Django
+<p>
+Sistema web con operaciones CRUD, autenticación de usuarios y conexión completa entre frontend y backend.
+</p>
 
-<p align="center">
-<img src=""/>
-
+<p>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Ver%20Código-6C2BD9?style=for-the-badge"/>
+  </a>
 </p>
 
 ---
 
-# 📫 Contact
+## 🖼 Evidencias / Capturas
 
-💻 GitHub  
-https://github.com/elizabethneria
+<p align="center">
+  <img src="https://via.placeholder.com/400x200.png?text=Proyecto+1" />
+  <img src="https://via.placeholder.com/400x200.png?text=Proyecto+2" />
+</p>
 
-📧 Email  
-tu_email@example.com
-
-📲 Telefono
-2471187838
-
+📌 *(Aquí puedes poner screenshots reales de tus sistemas)*
 
 ---
 
-⭐ Thanks for visiting my profile
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 Lenguajes más usados
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧠 Habilidades
+
+- ✔ Desarrollo Backend
+- ✔ Bases de Datos
+- ✔ Modelado de Sistemas
+- ✔ Frameworks (Django)
+- ✔ Resolución de problemas
+
+---
+
+## 📬 Contacto
+
+- 📧 Email: *tu correo aquí*
+- 💼 GitHub: https://github.com/elizabethneria
+
+---
+
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=120&section=footer"/>
+</p>
+
+⭐ *Gracias por visitar mi portfolio 💜*
