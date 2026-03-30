@@ -1,10 +1,14 @@
 <!-- HEADER VIOLETA ANIMADO -->
+<!-- BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=220&section=header&text=&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20in%20Progress&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=300&section=header&text=Elizabeth%20Neria&fontSize=50&fontColor=ffffff&=fadeIn&desc=%2&=70"/>
 </p>
+
 <p align="center">
-  <img src="TU_IMAGEN_AQUI" width="120" style="border-radius:50%;" />
+  <img src="foto.png" width="130" class="profile-img"/>
 </p>
+
+
 
 <h1 align="center">👩‍💻 Elizabeth Neria</h1>
 <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
