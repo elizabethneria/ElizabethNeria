@@ -1,14 +1,11 @@
 <!-- HEADER VIOLETA ANIMADO -->
 <!-- BANNER -->
-
-
-
-
-<h1 align="center">👩‍💻 Elizabeth Neria</h1>
-<h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
-
 <p align="center">
+  <img src="banner.png" width="100%" />
+  <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
+  <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
+</p>
 </p>
 
 ---
