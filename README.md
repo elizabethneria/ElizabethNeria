@@ -1,10 +1,37 @@
 <!-- HEADER VIOLETA ANIMADO -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=220&section=header&text=Elizabeth%20Neria&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20Developer%20in%20Progress&descAlignY=65"/>
+  <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=220&section=header&text=Desarrolladora%20Full%20Stack&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Backend%20%7C%20Desarrollo%20Web&descAlignY=65"/>
 </p>
 
+<p align="center">
+  <img src="TU_IMAGEN_AQUI" width="130" class="profile-img"/>
+</p>
+
+<style>
+.profile-img {
+  border-radius: 50%;
+  animation: float 3s ease-in-out infinite;
+  box-shadow: 0 0 20px #8A2BE2, 0 0 40px #6C2BD9;
+}
+
+/* Animación flotante */
+@keyframes float {
+  0% { transform: translatey(0px); }
+  50% { transform: translatey(-10px); }
+  100% { transform: translatey(0px); }
+}
+</style>
+
+<p align="center">
+  <img src="TU_IMAGEN_AQUI" width="120" style="border-radius:50%;" />
+</p>
 <h1 align="center">👩‍💻 Elizabeth Neria</h1>
 <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
+</p>
 
 ---
 
