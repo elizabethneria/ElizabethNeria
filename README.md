@@ -1,7 +1,7 @@
 <!-- HEADER VIOLETA ANIMADO -->
 <!-- BANNER -->
 <p align="center">
-  <img src="banner.png" width="100%" />
+  <img src="banner.jpg" width="100%" />
   <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
   <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
@@ -10,23 +10,9 @@
 
 ---
 
-<p align="center">
-  <a href="https://github.com/elizabethneria">
-    <img src="https://img.shields.io/badge/GitHub-Perfil-6C2BD9?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CV-Descargar-8A2BE2?style=for-the-badge&logo=readthedocs"/>
-  </a>
-</p>
-
----
-
-<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
 ## 👩‍💻 Sobre mí
 
-Soy estudiante de desarrollo de software enfocada en la creación de sistemas web y bases de datos.  
-Me interesa el desarrollo backend y el uso de tecnologías modernas para crear aplicaciones eficientes.
+Estudiante de la carrera TSU en Entornos Virtuales y Negocios Digitales, con enfoque en el desarrollo de soluciones tecnológicas innovadoras. Interesada en la creación de aplicaciones web, el manejo de bases de datos y la implementación de tecnologías emergentes como la realidad aumentada (RA) y la realidad virtual (RV), aplicadas al ámbito educativo y digital.
 
 - 💻 Experiencia con **Django + PostgreSQL**
 - 🌱 Aprendiendo **Full Stack Development**
