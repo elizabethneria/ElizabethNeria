@@ -89,7 +89,9 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 </p>
 
 <p align="center">
-  <img src="URL_DEL_GIF" width="400" />
+  <a href="https://drive.google.com/file/d/1xQwuiD61PLDvJtAlCXUf9qdw4GPsELSz/view?usp=drive_link">
+    <img src="carteles.png" width="500"/>
+  </a>
 </p>
 
 ---
