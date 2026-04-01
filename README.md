@@ -1,83 +1,96 @@
-<!-- HEADER VIOLETA ANIMADO -->
 <!-- BANNER -->
 <p align="center">
   <img src="banner.jpg" width="100%" />
   <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
   <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Student;Database%20Developer;Unity%20VR%20Learner;Technology%20Enthusiast&center=true&width=500&height=45">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora%20Backend;Estudiante%20de%20Software;Aprendiendo%20Full%20Stack;Interés%20en%20RA%20y%20RV&center=true&width=500&height=45">
+  </p>
 </p>
-</p>
+
+---
+
+## 🎯 Perfil Profesional
+
+Estudiante de TSU en Entornos Virtuales y Negocios Digitales con enfoque en el desarrollo de soluciones tecnológicas innovadoras. Me especializo en el desarrollo web y la gestión de bases de datos, integrando además diseño digital y conceptos de marketing para crear proyectos completos, funcionales y visualmente atractivos.
+
+Mi interés principal es el desarrollo backend, así como la implementación de tecnologías emergentes como la realidad aumentada (RA) y la realidad virtual (RV), aplicadas al ámbito educativo y digital.
 
 ---
 
 ## 👩‍💻 Sobre mí
 
-Estudiante de la carrera TSU en Entornos Virtuales y Negocios Digitales, con enfoque en el desarrollo de soluciones tecnológicas innovadoras. Interesada en la creación de aplicaciones web, el manejo de bases de datos y la implementación de tecnologías emergentes como la realidad aumentada (RA) y la realidad virtual (RV), aplicadas al ámbito educativo y digital.
-
-- 💻 Experiencia con **Django + PostgreSQL**
-- 🌱 Aprendiendo **Full Stack Development**
-- 🧠 Interés en **Realidad Aumentada (RA) y Realidad Virtual (RV)**
-- 🎯 Objetivo: Trabajar como desarrolladora profesional
+- 💻 Experiencia en desarrollo web y bases de datos  
+- 🌱 Aprendiendo desarrollo Full Stack  
+- 🎨 Interés en diseño digital y experiencia de usuario  
+- 📈 Conocimientos básicos en marketing digital  
+- 🧠 Interés en Realidad Aumentada (RA) y Realidad Virtual (RV)  
+- 🎯 Objetivo: Desarrollarme profesionalmente en el área tecnológica  
 
 ---
 
 ## 🚀 Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,django,postgresql,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,postgresql,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 📂 Proyectos (Portfolio)
+## 💼 Proyectos Relevantes
 
-### 🌿 Sistema de Plantas Medicinales con RA/RV
-<p>
-Aplicación interactiva enfocada en educación, integrando tecnologías de realidad aumentada y virtual para visualizar plantas medicinales.
-</p>
+### 🗄 Sistema de Gestión de Base de Datos
+Sistema enfocado en la administración de información mediante base de datos relacional.
 
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ver%20Proyecto-6C2BD9?style=for-the-badge"/>
-  </a>
-</p>
-
+- Modelo entidad-relación  
+- Implementación en PostgreSQL  
+- Gestión eficiente de datos  
 ---
 
-### 🗄 Sistema de Gestión con PostgreSQL
-<p>
-Sistema de base de datos con modelo entidad-relación, implementación en PostgreSQL y conexión con backend.
-</p>
+### 💻 Aplicación Web
+Sistema web con funcionalidades completas para gestión de usuarios e información.
 
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Repositorio-8A2BE2?style=for-the-badge"/>
-  </a>
-</p>
-
+- Operaciones CRUD  
+- Autenticación de usuarios  
+- Integración frontend y backend  
 ---
 
-### 💻 Aplicación Web con Django
-<p>
-Sistema web con operaciones CRUD, autenticación de usuarios y conexión completa entre frontend y backend.
-</p>
+## 🎨 Diseño Digital y 📈 Marketing
 
-<p>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ver%20Código-6C2BD9?style=for-the-badge"/>
-  </a>
-</p>
+Además del desarrollo, integro diseño y marketing para mejorar la calidad y el impacto de los proyectos.
 
----
+### 🎨 Diseño Digital
 
-## 🖼 Evidencias / Capturas
+- Diseño de interfaces (UI)  
+- Creación de banners y contenido visual  
+- Uso de estilos modernos (minimalista, tecnológico)  
+- Enfoque en experiencia de usuario (UX)  
 
 <p align="center">
-  <img src="https://via.placeholder.com/400x200.png?text=Proyecto+1" />
-  <img src="https://via.placeholder.com/400x200.png?text=Proyecto+2" />
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,illustrator" />
 </p>
 
-📌 *(Aquí puedes poner screenshots reales de tus sistemas)*
+---
+
+### 📈 Marketing Digital
+
+- Creación de contenido digital  
+- Enfoque en usuario y presentación  
+- Diseño para redes sociales  
+- Estrategias básicas de posicionamiento  
+
+---
+
+## 🖼 Portafolio Visual
+
+<p align="center">
+  <img src="https://via.placeholder.com/300x180.png?text=Banner+Digital" />
+  <img src="https://via.placeholder.com/300x180.png?text=Interfaz+UI" />
+  <img src="https://via.placeholder.com/300x180.png?text=Contenido+Marketing" />
+</p>
+
+<p align="center">
+  <img src="URL_DEL_GIF" width="400" />
+</p>
 
 ---
 
@@ -99,18 +112,26 @@ Sistema web con operaciones CRUD, autenticación de usuarios y conexión complet
 
 ## 🧠 Habilidades
 
-- ✔ Desarrollo Backend
-- ✔ Bases de Datos
-- ✔ Modelado de Sistemas
-- ✔ Frameworks (Django)
-- ✔ Resolución de problemas
+- ✔ Desarrollo Backend  
+- ✔ Bases de Datos  
+- ✔ Desarrollo Web  
+- ✔ Diseño Digital  
+- ✔ Resolución de Problemas  
+- ✔ Pensamiento Analítico  
+
+---
+
+## 🌐 Idiomas
+
+- Español: Nativo  
+- Inglés: Básico / Técnico  
 
 ---
 
 ## 📬 Contacto
 
-- 📧 Email: *tu correo aquí*
-- 💼 GitHub: https://github.com/elizabethneria
+- 📧 Email: *tu correo aquí*  
+- 💼 GitHub: https://github.com/elizabethneria  
 
 ---
 
@@ -119,4 +140,4 @@ Sistema web con operaciones CRUD, autenticación de usuarios y conexión complet
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C2BD9&height=120&section=footer"/>
 </p>
 
-⭐ *Gracias por visitar mi portfolio 💜*
+⭐ *Gracias por visitar mi perfil profesional 💜*
