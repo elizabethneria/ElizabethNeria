@@ -116,7 +116,7 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 <p align="center">
   <a href="CERTIFICADO Desarrollador de sitios web responsivos.pdf">
-    📜 Constancia de curso o taller
+    📜 Constancia de curso
   </a>
 </p>
 
@@ -128,7 +128,7 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 <p align="center">
   <a href="Elizabeth Alondra Neria Vázquez.pdf">
-    📜 Reconocimiento académico
+    📜 Constancia de taller
   </a>
 </p>
 
