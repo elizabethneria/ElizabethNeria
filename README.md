@@ -83,10 +83,11 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 ## 🖼 Portafolio Visual
 
 <p align="center">
-  <img src="https://via.placeholder.com/300x180.png?text=Banner+Digital" />
-  <img src="https://via.placeholder.com/300x180.png?text=Interfaz+UI" />
-  <img src="https://via.placeholder.com/300x180.png?text=Contenido+Marketing" />
+  <a href="https://drive.google.com/file/d/1xphXHgSzjSXKO3HXFF8q-Q6GrR5jcd-f/view?usp=drive_link">
+    <img src="carteles.png" width="500"/>
+  </a>
 </p>
+
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1xQwuiD61PLDvJtAlCXUf9qdw4GPsELSz/view?usp=drive_link">
