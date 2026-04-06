@@ -134,6 +134,13 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 ---
 
+## 🖼 Evidencias visuales
+
+<p align="center">
+  <img src="imagen.png"/>
+  <img src="https://via.placeholder.com/300x180.png?text=Proyecto+2" />
+</p>
+
 ## 🧠 Habilidades
 
 - ✔ Desarrollo Backend  
