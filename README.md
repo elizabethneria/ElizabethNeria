@@ -115,19 +115,19 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 ### 📄 Constancias
 
 <p align="center">
-  <a href="constancias/CERTIFICADO Desarrollador de sitios web responsivos.pdf">
+  <a href="CERTIFICADO Desarrollador de sitios web responsivos.pdf">
     📜 Constancia de curso o taller
   </a>
 </p>
 
 <p align="center">
-  <a href="constancias/Elizabeth Alondra Neria Vázquez (1).pdf">
+  <a href="Elizabeth Alondra Neria Vázquez (1).pdf">
     📜 Certificado de participación
   </a>
 </p>
 
 <p align="center">
-  <a href="constancias/Elizabeth Alondra Neria Vázquez.pdf">
+  <a href="Elizabeth Alondra Neria Vázquez.pdf">
     📜 Reconocimiento académico
   </a>
 </p>
