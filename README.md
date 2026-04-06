@@ -138,7 +138,7 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 <p align="center">
   <a href="https://elizabethneria.github.io/">
-    <img src="carteles.png" width="500"/>
+    <img src="web.png" width="500"/>
   </a>
 </p>
 
