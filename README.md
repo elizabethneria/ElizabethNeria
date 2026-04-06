@@ -169,7 +169,8 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 ## 📬 Contacto
 
-- 📧 Email: *tu correo aquí*  
+- 📧 Email:alondraneria88@gmail.com
+- 📲 Telefono:2471187838
 - 💼 GitHub: https://github.com/elizabethneria  
 
 ---
