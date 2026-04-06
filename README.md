@@ -10,6 +10,7 @@
   🧠 Desarrollo Web | 💻 Backend | 🗄 Bases de Datos  
   🎨 Diseño Digital | 📈 Marketing Digital
 </p>
+
 ---
 
 ## 🎯 Perfil Profesional
@@ -83,7 +84,8 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 ---
 
-## 🎥 Demostración de proyectos
+## 🎥 Demostración de proyectos y 🖼 Evidencias visuales
+
 
   💜 Haz clic en la imagen para ver la demostración del proyecto en video
 </p>
@@ -94,10 +96,21 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
   </a>
 </p>
 
-
 <p align="center">
   <a href="https://drive.google.com/file/d/1xQwuiD61PLDvJtAlCXUf9qdw4GPsELSz/view?usp=drive_link">
     <img src="carteles.png" width="500"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://elizabethneria.github.io/">
+    <img src="web.png" width="500"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1jbHa89d0JPjAyL2RMRDBIIgXpnwdF18C/view?usp=drive_link/">
+    <img src="apk.png" width="500"/>
   </a>
 </p>
 
@@ -111,6 +124,8 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
   ✔ Implementación de bases de datos  
   ✔ Creación de interfaces y contenido visual  
 </p>
+
+---
 
 ### 📄 Constancias
 
@@ -129,16 +144,6 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 <p align="center">
   <a href="Elizabeth Alondra Neria Vázquez.pdf">
     📜 Constancia de taller
-  </a>
-</p>
-
----
-
-## 🖼 Evidencias visuales
-
-<p align="center">
-  <a href="https://elizabethneria.github.io/">
-    <img src="web.png" width="500"/>
   </a>
 </p>
 
