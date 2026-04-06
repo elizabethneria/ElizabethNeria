@@ -1,12 +1,15 @@
 <!-- BANNER -->
 <p align="center">
   <img src="banner.jpg" width="100%" />
-  <h3 align="center">💜 Desarrolladora Web | Backend | Bases de Datos</h3>
+  <h3 align="center">💜Perfil de desarrollo y actividad profesional</h3>
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Desarrolladora%20Backend;Estudiante%20de%20Software;Aprendiendo%20Full%20Stack;Interés%20en%20RA%20y%20RV&center=true&width=500&height=45">
   </p>
 </p>
-
+<p align="center">
+  🧠 Desarrollo Web | 💻 Backend | 🗄 Bases de Datos  
+  🎨 Diseño Digital | 📈 Marketing Digital
+</p>
 ---
 
 ## 🎯 Perfil Profesional
@@ -99,25 +102,36 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 </p>
 
 ---
-## 📊 GitHub Dashboard
+
+## 📈 Actividad
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight&hide_border=true" width="85%"/>
+  ✔ Participación en proyectos académicos  
+  ✔ Desarrollo de aplicaciones web  
+  ✔ Implementación de bases de datos  
+  ✔ Creación de interfaces y contenido visual  
+</p>
+
+### 📄 Constancias
+
+<p align="center">
+  <a href="constancias/constancia1.pdf">
+    📜 Constancia de curso o taller
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+  <a href="constancias/constancia2.pdf">
+    📜 Certificado de participación
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C2BD9&height=2&section=footer"/>
+  <a href="constancias/constancia3.pdf">
+    📜 Reconocimiento académico
+  </a>
 </p>
 
-## 🏆 Logros
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=elizabethneria&theme=flat&no-frame=true&margin-w=10"/>
-</p>
 ---
 
 ## 🧠 Habilidades
