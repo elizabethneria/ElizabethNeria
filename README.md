@@ -80,11 +80,14 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 
 ---
 
-## 🖼 Portafolio Visual
+## 🎥 Demostración de proyectos
+
+  💜 Haz clic en la imagen para ver la demostración del proyecto en video
+</p>
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1xphXHgSzjSXKO3HXFF8q-Q6GrR5jcd-f/view?usp=drive_link">
-    <img src="carteles.png" width="500"/>
+    <img src="cortometraje.png" width="500"/>
   </a>
 </p>
 
@@ -96,21 +99,25 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 </p>
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-## 🔥 Lenguajes más usados
+## 📊 GitHub Dashboard
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=elizabethneria&show_icons=true&theme=tokyonight&hide_border=true" width="85%"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethneria&layout=compact&theme=tokyonight&hide_border=true" width="60%"/>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=6C2BD9&height=2&section=footer"/>
+</p>
+
+## 🏆 Logros
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=elizabethneria&theme=flat&no-frame=true&margin-w=10"/>
+</p>
 ---
 
 ## 🧠 Habilidades
