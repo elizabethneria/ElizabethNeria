@@ -170,7 +170,7 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 ### 📄 curriculum vitae
 
 <p align="center">
-  <a href="cv_eliza(1).pdf">
+  <a href="cv_eliza.pdf">
     📜 Curriculum vitae
   </a>
 </p>
