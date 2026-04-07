@@ -165,7 +165,16 @@ Además del desarrollo, integro diseño y marketing para mejorar la calidad y el
 - Español: Nativo  
 - Inglés: Básico / Técnico  
 
----
+--- 
+
+### 📄 curriculum vitae
+
+<p align="center">
+  <a href="cv_eliza.pdf">
+    📜 Curriculum vitae
+  </a>
+</p>
+
 
 ## 📬 Contacto
 
